@@ -1,6 +1,6 @@
 # android_instagram_post_downloader
 
-## instagram 帖子 图片视频下载器
+## instagram 图片视频下载器 支持帖子、IGTV和story
 
 ## 仅用于学习交流所用，严禁用于任何形式的商业用途
 
